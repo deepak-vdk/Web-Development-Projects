@@ -4,10 +4,4 @@ This repository contains various web development projects that I am working on t
 
 Project List
 
-Project 1 - Resume-To-Webite - A simple personal resume website built using basic HTML and CSS, featuring structured content with <p>, <a>, and class-based styling for a clean layout.
-
-
-Contact
-
-For any queries, contact Deepak Kumar at deepakkumar.vinayagamoorthy@gmail.com.
-
+Project 1 - Resume-To-Webite - A simple personal resume website built using basic HTML and CSS, featuring structured content with <p>,<a>, and class-based styling for a clean layout.
