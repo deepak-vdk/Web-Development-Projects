@@ -1,0 +1,45 @@
+body{
+  
+    background-color: #c9d6ff;
+}
+
+#log-in button:focus{
+    box-shadow: none;
+}
+
+.accordion-button:not(.collapsed){
+background-color: #FFF;
+}
+
+.form-label{
+    color: #3e4455;
+}
+
+.form-control{
+    background-color: #FFFF;
+    padding: 0 30px;
+    border-color: #939393;
+    line-height: 45px;
+}
+
+.form-control:focus{
+    outline: none;
+    box-shadow: 0 0 5px rgba(111, 99, 244, 0.5);
+    background-color: #FFF;
+    columns: #3e4455;
+    border-color:#939393
+}
+
+.form-check .form-check-input{
+    border-color: #939393;
+}
+
+.btn{
+    width: 100%;
+    margin: 10px 0;
+    padding: 12px;
+    color: #FFF;
+    font-weight: 600;
+    border-radius: 0;
+    background-color: #6f63f4;
+}
